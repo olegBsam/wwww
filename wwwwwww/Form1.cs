@@ -15,6 +15,7 @@ namespace wwwwwww
         public Form1()
         {
             InitializeComponent();
+            int a = 12;
         }
     }
 }
